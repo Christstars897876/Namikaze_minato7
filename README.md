@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=180&section=header&text=X69X%20BOT%20V3&fontSize=65&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=🤖%20Facebook%20Messenger%20Bot%20🤖&descSize=18&descAlignY=60&descColor=FFD700" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://i.imgur.com/MaHxr85.jpeg" width="90%" style="border-radius:12px; border: 2px solid #00FFFF;"/>
+  <img src="https://i.imgur.com/1OBaQZd.jpeg" width="90%" style="border-radius:12px; border: 2px solid #00FFFF;"/>
 </div>
 
 <br/>
