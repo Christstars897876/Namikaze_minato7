@@ -134,8 +134,8 @@ module.exports = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-beryl-chi-76.vercel.app/api?username=ncazad&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=00FFFF&icon_color=FF69B4"/>
-<img height="160" src="https://github-readme-stats-beryl-chi-76.vercel.app/api/top-langs/?username=ncazad&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10&title_color=00FFFF&layout=compact"/>
+<img height="160" src="https://github-readme-stats-beryl-chi-76.vercel.app/api?username=chrisst&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=00FFFF&icon_color=FF69B4"/>
+<img height="160" src="https://github-readme-stats-beryl-chi-76.vercel.app/api/top-langs/?username=chrisst&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10&title_color=00FFFF&layout=compact"/>
 
 <br/>
 
@@ -153,7 +153,7 @@ module.exports = {
   <img src="https://img.shields.io/badge/-Facebook%20%7C%20Azadx69x-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/ncazad">
+<a href="https://github.com/chrisst2009">
   <img src="https://img.shields.io/badge/-GitHub%20%7C%20ncazad-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
@@ -172,7 +172,7 @@ module.exports = {
 | Role | Name | Project |
 |:----:|:----:|:-------:|
 | 🏆 Original Creator | [NTKhang03](https://github.com/ntkhang03) | [Goat-Bot-V2](https://github.com/ntkhang03/Goat-Bot-V2) |
-| 👑 Modified By | [Azadx69x](https://github.com/ncazad) | [X69X-BOT-V3](https://github.com/ncazad/X69X-BOT-V3) |
+| 👑 Modified By | [chrisst](https://github.com/chrisst2009) | [MINATO_NAMIKAZE](https://github.com/chrisst2009/namikaze_minato7) |
 
 </div>
 
@@ -181,7 +181,7 @@ module.exports = {
 ## 📜 License
 
 ```
-X69X BOT V3 — MIT License (No Derivatives)
+MINATO NAMIKAZE — MIT License (No Derivatives)
 Copyright (c) 2022 NTKhang03 | Modified by Azadx69x
 
 ✔ You may use and share this software freely.
@@ -197,6 +197,6 @@ Copyright (c) 2022 NTKhang03 | Modified by Azadx69x
 
 **⭐ Star this repo if you like it — it means a lot! 🖤**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+chris+st!;Follow+%40ncazad+on+GitHub+💫;Made+with+❤️+bychrisst2009)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+chris+st!;Follow+%chrisst2009+sur+GitHub+💫;Made+with+❤️+bychrisst2009)](https://git.io/typig-svg)
 
 </div>
