@@ -98,7 +98,7 @@ module.exports = {
   config: {
     name: "commandName",
     version: "1.0",
-    author: "Azadx69x",
+    author: "chris st",
     role: 0,              // 0=All  1=Admin  2=VIP  3=Premium  4=AdminBot  5=Dev  6=Creator
     usePrefix: true,
     description: "What this command does",
@@ -149,7 +149,7 @@ module.exports = {
 
 <div align="center">
 
-<a href="https://www.facebook.com/profile.php?id=61588403646276">
+<a href="https://www.facebook.com/profile.php?id=61568806302361">
   <img src="https://img.shields.io/badge/-Facebook%20%7C%20Azadx69x-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 &nbsp;
@@ -157,7 +157,7 @@ module.exports = {
   <img src="https://img.shields.io/badge/-GitHub%20%7C%20ncazad-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/ncazad/X69X-BOT-V3/issues">
+<a href="https://github.com/chrisst2009/minato-BOT-V3/issues">
   <img src="https://img.shields.io/badge/-Report%20a%20Bug-FF4444?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
