@@ -197,6 +197,6 @@ Copyright (c) 2022 NTKhang03 | Modified by Azadx69x
 
 **⭐ Star this repo if you like it — it means a lot! 🖤**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=Thanks+for+visitingMinato+namikaze!;Follow+%40ncazad+on+GitHub+💫;Made+with+❤️+by+Azadx69x)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+chris+st!;Follow+%40ncazad+on+GitHub+💫;Made+with+❤️+bychrisst2009)](https://git.io/typing-svg)
 
 </div>
